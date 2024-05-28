@@ -2,6 +2,15 @@
 
 @section('title', 'Add Task')
 
+@section('styles')
+    <style>
+        .error-message {
+            color: red;
+            font-size: 0.8rem;
+        }
+    </style>
+@endsection
+
 @section('content')
     <form action="{{ route('tasks.store') }}" method="POST">
         @csrf
