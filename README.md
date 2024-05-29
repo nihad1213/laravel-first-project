@@ -2,7 +2,7 @@
 This is my first laravel project. It has some features like below.
 
 # Add New Task
-![LaravelTaskListApp-GoogleChrome2024-05-3001-15-22-ezgif com-video-to-gif-converter](https://github.com/nihad1213/laravel-first-project/assets/99197650/0e694486-e392-47a5-a711-6260c59531bb)
+![Laravel Task List App - Google Chrome 2024-05-30 01-15-22](https://github.com/nihad1213/laravel-first-project/assets/99197650/95bbd0b4-9ca4-4ebb-b2b9-94ce881a828b)
 
 # Delete Task
 ![delete-task](https://github.com/nihad1213/laravel-first-project/assets/99197650/43b70d3b-b514-4d12-9a9a-9816589c8bc1)
